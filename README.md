@@ -1,3 +1,5 @@
+﻿About 
+
 In short, this keyboard layout has all the good traits of US-international
 without it's bad ones.
 Estonian layout is not suitable for coding because it requires AltGr to be
@@ -7,3 +9,7 @@ in uncomfortable places. But when writing Estonian text I need characters
 This is a keyboard layout that makes it easy to code, and write Estonian
 characters without needing to switch between Estonian and US layouts.
 
+
+Download
+
+https://code.google.com/p/lego-keyboard/downloads/list
