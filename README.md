@@ -12,4 +12,4 @@ characters without needing to switch between Estonian and US layouts.
 
 Download
 
-https://code.google.com/p/lego-keyboard/downloads/list
+https://github.com/leg0/lego-keyboard/releases
